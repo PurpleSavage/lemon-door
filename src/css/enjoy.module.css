@@ -1,0 +1,17 @@
+.line {
+    stroke: black;
+    stroke-width: 2;
+    fill: none;
+    stroke-dasharray: 1000;  /* Usa la longitud real */
+    stroke-dashoffset: 1000;  /* Inicia oculto */ 
+    animation: dibujar 1.5s linear forwards;
+}
+
+@keyframes dibujar {
+    from {
+        stroke-dashoffset: 1000;  /* Comienza completamente oculto */
+    }
+    to {
+        stroke-dashoffset: 0;  /* Se dibuja progresivamente */
+    }
+} 
