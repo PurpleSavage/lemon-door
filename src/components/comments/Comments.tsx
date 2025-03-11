@@ -4,7 +4,7 @@ export default function Comments() {
   return (
     <section className='md:h-screen w-full space-y-16 relative z-30 bg-white' id="testimonials">
         <div className='space-y-4 pt-10'>
-          <h2 className='text-3xl md:text-5xl text-center  text-black'>
+          <h2 className='text-3xl md:text-5xl text-center  text-black font-bold'>
             Testimonials
           </h2>
           <p className='text-bold text-md md:text-xl text-center text-black '

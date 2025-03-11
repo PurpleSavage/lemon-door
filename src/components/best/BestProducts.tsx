@@ -29,10 +29,10 @@ export default function BestProducts() {
         </svg>
       </div>
 
-      <h3 className={`text-3xl md:text-6xl font-bold text-black text-center  ${style.autoShowM}`}>These are some of our t&#8209;shirts&mdash;drip
+      <h3 className={`text-3xl lg:text-6xl font-bold text-black text-center  ${style.autoShowM}`}>These are some of our t&#8209;shirts&mdash;drip
       in style!</h3>
-      <div className=" w-5/6 mx-auto grid grid-cols-1 md:grid-cols-2 gap-2 ">
-        <div className={`flex md:flex-row flex-col items-center mx-auto gap-2 `}>  
+      <div className="w-full xl:w-5/6 lg:mx-auto grid grid-cols-1 lg:grid-cols-2 gap-2 ">
+        <div className={` flex md:flex-row flex-col items-center mx-auto gap-2 `}>  
           <div className="size-[300px] min-w-[300px] relative">
             <Image
               src={'/shirts/shirt-1.webp'}
@@ -44,8 +44,8 @@ export default function BestProducts() {
             />
           </div>
           <div className='space-y-2 self-start grow h-full px-4 '>
-            <h4 className='text-lg md:text-4xl text-black text-center'>The Bitch is back</h4>
-            <p className='text-md md:text-lg text-black'>
+            <h4 className='text-lg lg:text-4xl text-black text-center'>The Bitch is back</h4>
+            <p className='text-md lg:text-lg text-black'>
               T-shirt  from our &quot;Space Horror&quot; collection, black color, XL size—horror with style for a great October 31st.
             </p>
           </div>
@@ -63,8 +63,8 @@ export default function BestProducts() {
             />
           </div>
           <div className='space-y-2 self-start grow h-full px-4'>
-            <h4 className='text-lg md:text-4xl text-black text-center'>Fish Summer</h4> 
-            <p className='text-md md:text-lg text-black'>
+            <h4 className='text-lg lg:text-4xl text-black text-center'>Fish Summer</h4> 
+            <p className='text-md lg:text-lg text-black'>
               White T-shirt from our &quot;Summer Fishing&quot; collection, available in sizes L, XL, and M.  
               Dress in style this summer and go fishing with style!
             </p> 
@@ -83,8 +83,8 @@ export default function BestProducts() {
             />
           </div>
           <div className='space-y-2 self-start grow h-full px-4'>
-            <h4 className='text-lg md:text-4xl text-black text-center'>Acid Moon</h4>
-            <p className='text-md md:text-lg text-black'>
+            <h4 className='text-lg lg:text-4xl text-black text-center'>Acid Moon</h4>
+            <p className='text-md lg:text-lg text-black'>
               Dress in our <strong>Acid Moon</strong> T-shirt and join the <strong>&quot;Collapsed Love&quot;</strong> collection.  
               Let yourself be carried away by the psychedelic style of an <strong>Acid Moon</strong>.
             </p>
