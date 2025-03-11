@@ -9,7 +9,6 @@ export default function BestProducts() {
       </h3>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-5xl mx-auto mt-10">
-        {/* Tarjetas */}
         {[
           { src: "/shirts/shirt-1.webp", title: "The Bitch is Back", desc: "T-shirt from our “Space Horror” collection, black color, XL size." },
           { src: "/shirts/shirt-2.webp", title: "Fish Summer", desc: "White T-shirt from our “Summer Fishing” collection, sizes L, XL, M." },
@@ -17,13 +16,11 @@ export default function BestProducts() {
           { src: "/shirts/shirt-4.webp", title: "Adventure", desc: "Judy, white color, XL size, “Autumn Mist” collection." },
         ].map((shirt, index) => (
           <div key={index} className="flex flex-col items-center bg-gray-200 p-4 rounded-lg max-w-sm mx-auto">
-            <div className="w-full aspect-w-1 aspect-h-1 overflow-hidden rounded-lg">
+            <div className="relative w-full h-64 rounded-lg overflow-hidden">
               <Image
                 src={shirt.src}
                 alt={shirt.title}
-                layout="responsive"
-                width={300}
-                height={300}
+                fill
                 className="object-cover"
               />
             </div>
