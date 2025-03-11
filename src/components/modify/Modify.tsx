@@ -3,10 +3,10 @@ import Image from 'next/image'
 export default function Modify() {
   return (
     <section className='h-screen sticky top-0 z-10 bg-black flex flex-col'>
-      <h3 className=" text-4xl font-bold tracking-widest text-white text-center py-4 w-full">
+      <h3 className="text-3xl md:text-4xl font-bold tracking-widest text-white text-center py-4 w-full">
         We modify your garments, giving them a touch of our unique style.
       </h3>
-      <div className={` ${style.parent} w-5/6 mx-auto grow`}>
+      <div className={` ${style.parent} w-full md:w-5/6 mx-auto grow`}>
         <div className={`${style.div1} relative`}>
             <Image
               src="/modify/modify-1.jpg"

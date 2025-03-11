@@ -10,10 +10,10 @@ export default function FutureFashion() {
           radial-gradient(at 82% 65%, hsl(285.82, 76%, 14.000000000000002%) 0, transparent 55%);`
       }}
     >
-      <h3 className=" text-4xl font-bold tracking-widest text-white text-center py-4 w-full">
+      <h3 className="text-3xl md:text-4xl font-bold tracking-widest text-white text-center py-4 w-full">
         Futuristic clothing with neon style, a rain of colors.
       </h3>
-      <div className={` ${style.parent} w-5/6 mx-auto grow`}>
+      <div className={` ${style.parent} w-full md:w-5/6 mx-auto grow`}>
         <div className={`${style.div1} relative`}>
             <Image
               src="/future/future-1.jpg"

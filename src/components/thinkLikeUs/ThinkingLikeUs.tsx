@@ -11,7 +11,7 @@ export default function ThinkingLikeUs() {
            radial-gradient(at 82% 65%, hsl(218.00, 35%, 17%) 0, transparent 55%);`
       }}
     >
-      <h3 className="text-center text-5xl font-bold text-white">Think Like Us</h3>
+      <h3 className="text-center text-3xl md:text-5xl font-bold text-white">Think Like Us</h3>
       <div className="relative w-full  flex items-center justify-center">
         <div className="absolute left-0 z-20">
           <Image
@@ -24,7 +24,7 @@ export default function ThinkingLikeUs() {
             }}
           />
         </div>
-        <div className="absolute -top-20 left-48 z-10">
+        <div className="absolute -top-20 left-48 z-10 md:block hidden">
           <Image
             alt=""
             src="/submodels/sub-model-1.jpg"
@@ -57,7 +57,7 @@ export default function ThinkingLikeUs() {
             }}
           />
         </div>
-        <div className="absolute -top-20 right-0 z-10">
+        <div className="absolute -top-20 right-0 z-10 md:block hidden">
           <Image
             alt=""
             src="/submodels/sub-model-6.jpg"
@@ -128,7 +128,7 @@ export default function ThinkingLikeUs() {
             }}
           />
         </div>
-        <div className="absolute right-0 z-20">
+        <div className="absolute right-0 z-20 md:block hidden">
           <Image
             alt=""
             src="/thinkLikeUs/2.jpg"
