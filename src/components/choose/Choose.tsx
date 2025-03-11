@@ -88,7 +88,7 @@ export default function Choose() {
               priority
             />
           </picture>
-          <h3 className="text-3xl md:text-5xl font-bold tracking-widest text-white">Choose and be unique!</h3>
+          <h3 className="text-3xl md:text-5xl font-bold md:block hidden tracking-widest text-white">Choose and be unique!</h3>
         </motion.div>
       </div>
     </section>
