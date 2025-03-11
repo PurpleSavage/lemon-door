@@ -8,7 +8,7 @@ export default function ThinkingLikeUs() {
         backgroundColor: "#06080d",
         backgroundImage: `
           radial-gradient(at 47% 33%, hsl(246.36, 100%, 26%) 0, transparent 59%), 
-           radial-gradient(at 82% 65%, hsl(218.00, 35%, 17%) 0, transparent 55%);`
+           radial-gradient(at 82% 65%, hsl(218.00, 35%, 17%) 0, transparent 55%)`
       }}
     >
       <h3 className="text-center text-3xl md:text-5xl font-bold text-white">Think Like Us</h3>

@@ -21,6 +21,7 @@ export const metadata: Metadata = {
     "alternative clothing",
     "trippy designs",
   ],
+  icons: "/favicon.ico"
 };
 
 export default function RootLayout({

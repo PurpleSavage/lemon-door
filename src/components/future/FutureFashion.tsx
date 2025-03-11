@@ -7,7 +7,7 @@ export default function FutureFashion() {
         backgroundColor: "#111927",
         backgroundImage: `
           radial-gradient(at 47% 33%, hsl(295.56, 100%, 43%) 0, transparent 59%), 
-          radial-gradient(at 82% 65%, hsl(285.82, 76%, 14.000000000000002%) 0, transparent 55%);`
+          radial-gradient(at 82% 65%, hsl(285.82, 76%, 14.000000000000002%) 0, transparent 55%)`
       }}
     >
       <h3 className="text-3xl md:text-4xl font-bold tracking-widest text-white text-center py-4 w-full">
