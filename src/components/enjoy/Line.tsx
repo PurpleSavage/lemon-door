@@ -7,7 +7,7 @@ export default function Line() {
     const { hasAnimated } = useSectionObserver({ sectionRef });
 
     return (
-        <div className='h-full w-full' ref={sectionRef}>
+        <div className='h-[900px] lg:h-full w-full rotate-90 lg:rotate-0 ' ref={sectionRef}>
             <svg viewBox="0 0 1000 300" className="absolute w-full h-full">
                 <path 
                     d="M 0 150 Q 250 50, 500 150 T 1000 150" 

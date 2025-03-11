@@ -33,7 +33,7 @@ export default function Choose() {
 
           <picture>
             <Image
-              width={300}
+              width={500}
               height={300}
               alt="image psychedelic design tshirt"
               src={'/designs/design-2.webp'}
@@ -43,7 +43,7 @@ export default function Choose() {
 
           <picture>
             <Image
-              width={300}
+              width={400}
               height={300}
               alt="image psychedelic design tshirt"
               src={'/designs/design-3.webp'}
@@ -53,7 +53,7 @@ export default function Choose() {
 
           <picture>
             <Image
-              width={300}
+              width={500}
               height={300}
               alt="image psychedelic design tshirt"
               src={'/designs/design-4.webp'}
@@ -63,7 +63,7 @@ export default function Choose() {
 
           <picture>
             <Image
-              width={300}
+              width={400}
               height={300}
               alt="image psychedelic design tshirt"
               src={'/designs/design-5.webp'}
@@ -72,7 +72,7 @@ export default function Choose() {
           </picture>
           <picture>
             <Image
-              width={300}
+              width={500}
               height={300}
               alt="image psychedelic design tshirt"
               src={'/designs/design-6.webp'}
@@ -81,7 +81,7 @@ export default function Choose() {
           </picture>
           <picture>
             <Image
-              width={300}
+              width={400}
               height={300}
               alt="image psychedelic design tshirt"
               src={'/designs/design-7.webp'}
