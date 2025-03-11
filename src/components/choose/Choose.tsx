@@ -25,7 +25,7 @@ export default function Choose() {
               <Image
               width={300}
               height={300}
-              alt="imgae psychedelic design tshirt"
+              alt="image psychedelic design tshirt"
               src={'/designs/design-1.webp'}
               priority
             />
@@ -35,7 +35,7 @@ export default function Choose() {
             <Image
               width={300}
               height={300}
-              alt="imgae psychedelic design tshirt"
+              alt="image psychedelic design tshirt"
               src={'/designs/design-2.webp'}
               priority
             />
@@ -55,7 +55,7 @@ export default function Choose() {
             <Image
               width={300}
               height={300}
-              alt="imgae psychedelic design tshirt"
+              alt="image psychedelic design tshirt"
               src={'/designs/design-4.webp'}
               priority
             />
@@ -65,7 +65,7 @@ export default function Choose() {
             <Image
               width={300}
               height={300}
-              alt="imgae psychedelic design tshirt"
+              alt="image psychedelic design tshirt"
               src={'/designs/design-5.webp'}
               priority
             />
@@ -74,7 +74,7 @@ export default function Choose() {
             <Image
               width={300}
               height={300}
-              alt="imgae psychedelic design tshirt"
+              alt="image psychedelic design tshirt"
               src={'/designs/design-6.webp'}
               priority
             />
@@ -83,7 +83,7 @@ export default function Choose() {
             <Image
               width={300}
               height={300}
-              alt="imgae psychedelic design tshirt"
+              alt="image psychedelic design tshirt"
               src={'/designs/design-7.webp'}
               priority
             />

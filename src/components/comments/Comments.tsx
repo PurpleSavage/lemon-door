@@ -19,7 +19,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/Giorgina.jpg'
                   className='rounded-full w-full h-full'
                 />
@@ -41,7 +41,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/Charper.jpg'
                   className='rounded-full w-full h-full'
                 />
@@ -64,7 +64,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/Donatello.jpg'
                   className='rounded-full w-full h-full'
                 />
@@ -84,7 +84,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/kenet.jpg'
                   className='rounded-full w-full h-full'
                 />
@@ -108,7 +108,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/Henry.jpg'
                   className='rounded-full w-full h-full'
                 />
@@ -133,7 +133,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/Lia.jpg'
                   className='rounded-full w-full h-full'
                 />
@@ -156,7 +156,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/Mia.jpg'
                   className='rounded-full w-full h-full'
                 />
@@ -180,7 +180,7 @@ export default function Comments() {
                 <Image
                   width={50}
                   height={40}
-                  alt='phot0 profile sectio ntestimonials'
+                  alt='photo profile sectio ntestimonials'
                   src='/people/Dustin.jpg'
                   className='rounded-full w-full h-full'
                 />
