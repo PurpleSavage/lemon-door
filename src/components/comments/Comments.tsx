@@ -15,7 +15,7 @@ export default function Comments() {
         <div className={`${style.wrapper} `}>
           <div className={`${style.item} ${style.item1} space-y-6 py-4 rotate-12 shadow-xl`}>
             <div className='flex items-center gap-2 px-2'>
-              <div className='rounded-full size-[50px] overflow-hidden bg-red-500'>
+              <div className='rounded-full size-[50px] overflow-hidden '>
                 <Image
                   width={50}
                   height={40}
@@ -60,7 +60,7 @@ export default function Comments() {
 
           <div className={`${style.item} ${style.item3} space-y-6 py-4 -rotate-12 shadow-xl`}>
             <div className='flex items-center gap-2 px-2'>
-              <div className='rounded-full size-[50px] overflow-hidden bg-red-500'>
+              <div className='rounded-full size-[50px] overflow-hidden '>
                 <Image
                   width={50}
                   height={40}
@@ -80,7 +80,7 @@ export default function Comments() {
           </div>
           <div className={`${style.item} ${style.item4} space-y-6 py-4 shadow-xl`}>
             <div className='flex items-center gap-2 px-2'>
-              <div className='rounded-full size-[50px] overflow-hidden bg-red-500'>
+              <div className='rounded-full size-[50px] overflow-hidden '>
                 <Image
                   width={50}
                   height={40}
@@ -104,7 +104,7 @@ export default function Comments() {
 
           <div className={`${style.item} ${style.item5} space-y-6 py-4 rotate-12 shadow-xl`}>
             <div className='flex items-center gap-2 px-2'>
-              <div className='rounded-full size-[50px] overflow-hidden bg-red-500'>
+              <div className='rounded-full size-[50px] overflow-hidden '>
                 <Image
                   width={50}
                   height={40}
@@ -129,7 +129,7 @@ export default function Comments() {
 
           <div className={`${style.item} ${style.item6} space-y-6 py-4 shadow-xl`}>
             <div className='flex items-center gap-2 px-2'>
-              <div className='rounded-full size-[50px] overflow-hidden bg-red-500'>
+              <div className='rounded-full size-[50px] overflow-hidden '>
                 <Image
                   width={50}
                   height={40}
@@ -152,7 +152,7 @@ export default function Comments() {
 
           <div className={`${style.item} ${style.item7} space-y-6 py-4 -rotate-12 shadow-xl`}>
             <div className='flex items-center gap-2 px-2'>
-              <div className='rounded-full size-[50px] overflow-hidden bg-red-500'>
+              <div className='rounded-full size-[50px] overflow-hidden '>
                 <Image
                   width={50}
                   height={40}
@@ -176,7 +176,7 @@ export default function Comments() {
 
           <div className={`${style.item} ${style.item8} space-y-6 py-4 shadow-xl`}>
             <div className='flex items-center gap-2 px-2'>
-              <div className='rounded-full size-[50px] overflow-hidden bg-red-500'>
+              <div className='rounded-full size-[50px] overflow-hidden '>
                 <Image
                   width={50}
                   height={40}
